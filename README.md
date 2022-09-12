@@ -4,7 +4,7 @@ Hi 👋 My name is Carlos E. Vieira
 Full Stack Web Developer
 ------------------------
 
-I'm a 40 years old developer and hacking since I was 24. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development.
+I'm a 40 year old developer and I've been coding since I was 24 years old. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development.
 
 I work at Inova Factory - Soluções Web (https://www.inovafactory.com.br/), a company focused on developing web, mobile and desktop applications.
 
