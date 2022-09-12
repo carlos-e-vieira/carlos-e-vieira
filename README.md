@@ -1,5 +1,5 @@
-Hi 👋 My name is Carlos Eduardo Vieira
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Hi 👋 My name is Carlos E. Vieira
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=+
 
 Full Stack Web Developer
 ------------------------
