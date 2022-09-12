@@ -18,8 +18,8 @@ I work at Inova Factory - Soluções Web (https://www.inovafactory.com.br/), a c
 <p>
 <img src="https://github.com/topics/html" width="50" height="50">
 <img src="https://github.com/Viglino/iconicss" width="50" height="50">
-<img src="https://github.com/orgs/twbs/repositories?type=all" width="50" height="50">
-<img src="https://user-images.githubusercontent.com/4727/38117842-2d270f22-336c-11e8-8413-e5daf9ae41e9.png" width="50" height="50">
+<img src="https://avatars.githubusercontent.com/u/2918581?s=280&v=4" width="50" height="50">
+<img src="[https://user-images.githubusercontent.com/4727/38117842-2d270f22-336c-11e8-8413-e5daf9ae41e9.png](https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/js.svg)" width="50" height="50">
 </p>
 
 ### Socials
