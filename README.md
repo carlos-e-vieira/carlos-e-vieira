@@ -16,7 +16,7 @@ I work at Inova Factory - Soluções Web (https://www.inovafactory.com.br/), a c
 ### Skills
 
 <p>
-<img src="https://user-images.githubusercontent.com/4727/38117842-2d270f22-336c-11e8-8413-e5daf9ae41e9.png" width="32" height="32">
+<img src="https://user-images.githubusercontent.com/4727/38117842-2d270f22-336c-11e8-8413-e5daf9ae41e9.png" width="50" height="50">
 </p>
 
 ### Socials
