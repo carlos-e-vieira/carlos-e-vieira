@@ -31,7 +31,6 @@ I work at Inova Factory - Soluções Web (https://www.inovafactory.com.br/), a c
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Qt_logo_2013.svg/1200px-Qt_logo_2013.svg.png" width="50" height="50">
 <img src="https://camo.githubusercontent.com/537f66454b766b0d56da91225206ebf6d28ecff24d84668d52cf9430e02460fd/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f646a616e676f2e737667" width="50" height="50">
 <img src="https://camo.githubusercontent.com/4b2b52e6181813394e588e93a0c96a6db56d02cdbed133e9989b24a99da8c659/68747470733a2f2f64617368626f6172642e736e617063726166742e696f2f736974655f6d656469612f6170706d656469612f323031372f30342f7770636f6d2e706e67" width="50" height="50">
-<img src="https://avatars.githubusercontent.com/u/168457?s=280&v=4" width="50" height="50">
 </p>
 
 ### Socials
