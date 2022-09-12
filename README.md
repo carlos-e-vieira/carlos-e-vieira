@@ -1,8 +1,8 @@
-Hi 👋 My name is Carlos
-==========================
+Hi 👋 My name is Carlos Eduardo Vieira
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 Full Stack Web Developer
------------------------------
+------------------------
 
 I'm a 40 years old developer and hacking since I was 24. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development.
 
