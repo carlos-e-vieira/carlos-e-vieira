@@ -16,8 +16,8 @@ I work at Inova Factory - Soluções Web (https://www.inovafactory.com.br/), a c
 ### Skills
 
 <p>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="50" height="50">
-<img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png" width="50" height="50">
+<img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="50" height="50">
+<img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="50" height="50">
 <img src="https://avatars.githubusercontent.com/u/2918581?s=280&v=4" width="50" height="50">
 <img src="https://user-images.githubusercontent.com/4727/38117842-2d270f22-336c-11e8-8413-e5daf9ae41e9.png" width="50" height="50">
 </p>
