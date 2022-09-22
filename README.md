@@ -16,14 +16,15 @@ I work at Inova Factory - Soluções Web (https://www.inovafactory.com.br/), a c
 ### Skills
 
 <p>
+ <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/com_94184.png" width="50" height="50">
+<img src="https://avatars0.githubusercontent.com/u/958072" width="50" height="50">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="50" height="50">
 <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="50" height="50">
 <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="50" height="50">
 <img src="https://avatars.githubusercontent.com/u/2918581?s=280&v=4" width="50" height="50">
 <img src="https://camo.githubusercontent.com/4b2b52e6181813394e588e93a0c96a6db56d02cdbed133e9989b24a99da8c659/68747470733a2f2f64617368626f6172642e736e617063726166742e696f2f736974655f6d656469612f6170706d656469612f323031372f30342f7770636f6d2e706e67" width="50" height="50">
   
-<img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/com_94184.png" width="50" height="50">
-<img src="https://avatars0.githubusercontent.com/u/958072" width="50" height="50">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="50" height="50">
+
 <img src="https://raw.githubusercontent.com/github/explore/2d218e3aa252dc90eef269b34eeec1fbd15dc07e/topics/sqlite/sqlite.png" width="50" height="50">
 <img src="https://camo.githubusercontent.com/7b23e6c442adf9ef0714d6b52c2621b3ebef58bcc2f101b8dabab05904201e4f/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3235362f6a6176612d34332d3536393330352e706e67" width="50" height="50">
 <img src="https://user-images.githubusercontent.com/20749736/29601283-58be7ef6-87f8-11e7-82b5-0bfe982044d2.png" width="50" height="50">
