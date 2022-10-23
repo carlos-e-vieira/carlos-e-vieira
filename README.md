@@ -6,8 +6,6 @@ PHP Web Developer
 
 I'm a 40 year old developer and I've enjoyed coding since I was 24. I love coding and figuring out how to solve deep problems using technology. My main focus is web development.
 
-I work at Inova Factory - Soluções Web (https://www.inovafactory.com.br/), a company focused on developing web, mobile and desktop applications.
-
 * 🌍  I'm based in São Paulo, Brazil
 * ✉️  You can contact me at [carlosportalsocial@gmail.com](mailto:carlosportalsocial@gmail.com)
 * 🧠  I'm currently studying Django, PyQt and Automation in Python
