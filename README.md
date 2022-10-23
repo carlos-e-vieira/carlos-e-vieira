@@ -9,7 +9,6 @@ I'm a 40 year old developer and I've enjoyed coding since I was 24. I love codin
 * 🌍  I'm based in São Paulo, Brazil
 * ✉️  You can contact me at [carlosportalsocial@gmail.com](mailto:carlosportalsocial@gmail.com)
 * 🧠  I'm currently studying Django, PyQt and Automation in Python
-* 🤝  I'm open to new professional possibilities
 
 ### Skills
 
