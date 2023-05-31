@@ -4,7 +4,7 @@ Hi 👋 My name is Carlos E. Vieira
 PHP Web Developer
 ------------------------
 
-I'm a 40 year old developer and I've enjoyed coding since I was 24. I love coding and figuring out how to solve deep problems using technology. My main focus is web development.
+I'm 40 years old and I've enjoyed coding since I was 24. I love coding and figuring out how to solve deep problems using technology. My main focus is web development.
 
 * 🌍  I'm based in São Paulo, Brazil
 * ✉️  You can contact me at [carlosportalsocial@gmail.com](mailto:carlosportalsocial@gmail.com)
